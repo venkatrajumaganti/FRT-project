@@ -5,7 +5,7 @@ This is a web based application developed for Life Style related based website i
 ### This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-*Project Link* -
+*Project Link* - https://witty-desert-02587a500.2.azurestaticapps.net
 
 *project Demo Video Link* -
 
@@ -44,6 +44,7 @@ This is a web based application developed for Life Style related based website i
 
 ### Home -
 
+![Screenshot (4)](https://user-images.githubusercontent.com/117815330/209803709-86a5a7d0-0e84-430a-a7ab-d9187b3098ed.png)
 
 
 
@@ -66,9 +67,12 @@ This is a web based application developed for Life Style related based website i
 
 ### About Us -
 
+![Screenshot (5)](https://user-images.githubusercontent.com/117815330/209803726-0bcc4ca2-3c1e-4f9a-9e65-24037e9fb5aa.png)
 
 
+![Screenshot (6)](https://user-images.githubusercontent.com/117815330/209803731-074156de-7665-4167-9e7a-f1583f3cddeb.png)
 
+![Screenshot (7)](https://user-images.githubusercontent.com/117815330/209803750-4b113464-a750-4325-ba88-134506469557.png)
 
 
 
@@ -82,6 +86,7 @@ This is a web based application developed for Life Style related based website i
 
 ### Menu -
 
+![Screenshot (8)](https://user-images.githubusercontent.com/117815330/209803755-99b66d84-0171-4822-84cf-8dc8f1ed6936.png)
 
 
 
@@ -99,6 +104,7 @@ This is a web based application developed for Life Style related based website i
 ### Contact Us -
 
 
+![Screenshot (9)](https://user-images.githubusercontent.com/117815330/209803766-2e77b205-055c-466d-982e-bc9a73e84d4c.png)
 
 
 
@@ -116,6 +122,7 @@ This is a web based application developed for Life Style related based website i
 
 ### Health Bot -
 
+![Screenshot (10)](https://user-images.githubusercontent.com/117815330/209803791-da36f78c-371b-4f5d-ad26-3c828444d098.png)
 
 
 
@@ -137,6 +144,7 @@ This is a web based application developed for Life Style related based website i
 
 ### Azure Static Web Apps -
 
+![Screenshot (11)](https://user-images.githubusercontent.com/117815330/209803803-a83652c3-47d4-41fc-812d-c4b59e92cd3c.png)
 
 
 
@@ -158,6 +166,7 @@ This is a web based application developed for Life Style related based website i
 ### Azure Health Bot -
 
 
+![Screenshot (12)](https://user-images.githubusercontent.com/117815330/209803821-f32fce44-d561-4060-9ed5-85a6fa36d530.png)
 
 
 
