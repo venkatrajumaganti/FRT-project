@@ -7,7 +7,7 @@ This is a web based application developed for Life Style related based website i
 
 *Project Link* - https://witty-desert-02587a500.2.azurestaticapps.net
 
-*project Demo Video Link* -
+*project Demo Video Link* -https://youtu.be/xH2opbtdV28
 
 ## Azure Technologies Used For Project
 
